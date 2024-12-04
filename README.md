@@ -15,6 +15,7 @@ OBS: O inicio do primeiro sprint desse challenge se deu no dia 13/11/2024 com en
 ![1º Sprint do projeto](img/Challenge_sprint-1.png)
 
 [Documentação do primeiro sprint](#-minha-proposta-de-solução-primeiro-sprint)
+
 ---
 
 ## 🚀 Minha proposta de solução (Primeiro Sprint)
