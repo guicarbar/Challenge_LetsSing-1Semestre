@@ -9,6 +9,9 @@ Este desafio é parte dos *Challenges* anuais propostos pela FIAP em parceria co
 
 [**📄 Apresentação oficial do Challenge**](Challenge_LetsSing_apresentacao.pdf)
 
+
+OBS: O inicio do primeiro sprint desse challenge se deu no dia 13/11/2024 com entrega para o dia 04/12/2024.
+
 ![1º Sprint do projeto](img/Challenge_sprint-1.png)
 
 ---
