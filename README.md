@@ -16,7 +16,7 @@ OBS: O inicio do primeiro sprint desse challenge se deu no dia 13/11/2024 com en
 
 ---
 
-## 🚀 Minha proposta de solução
+## 🚀 Minha proposta de solução (Primeiro Sprint)
 
 O projeto propõe a criação de um sistema inovador e robusto que utiliza tecnologias de ponta, como:
 
