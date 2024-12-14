@@ -1,4 +1,4 @@
-🟢 🟡 🔴
+🟢🟡🔴
 
 # Challenge_LetsSing_FIAP
 
