@@ -7,7 +7,7 @@
 **📚 Contexto:**
 Este desafio é parte dos *Challenges* anuais propostos pela FIAP em parceria com empresas externas. Em 2024, o parceiro é a *LetsSing*, que busca soluções criativas para validar juridicamente documentos assinados digitalmente, assegurando segurança e confiabilidade. 
 
-[**📄 Apresentação oficial do Challenge**](Challenge_LetsSing_apresentacao.pdf)
+[**📄 Apresentação oficial do Challenge**](Challenge_LetsSing_apresentação.pdf)
 
 
 OBS: O inicio do primeiro sprint desse challenge se deu no dia 13/11/2024 com entrega para o dia 04/12/2024.
